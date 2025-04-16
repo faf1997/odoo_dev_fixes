@@ -7,6 +7,6 @@
     "data": [
         "data/data.xml",
     ],
-    'installable': True,
-    'auto_install': True,
+    "installable": True,
+    "auto_install": True,
 }
