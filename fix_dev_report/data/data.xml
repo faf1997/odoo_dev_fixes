@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <record id="report_url" model="ir.config_parameter">
+            <field name="key">report.url</field>
+            <field name="value">http://localhost:8069</field>
+        </record>
+    
+    </data>
+</odoo>
